@@ -1,7 +1,7 @@
 # java-tspvisualization
 
 A small problem for my artificial intelligence class. This program will use and A* search in conjunction with an MST based heuristic
-to solve the traveling salesman problem optimally. The visualiztion shows each the evaluation of each frontier node. The user can adjust the number of points
+to solve the traveling salesperson problem optimally. The visualiztion shows each the evaluation of each frontier node. The user can adjust the number of points
 in the problem and the time delay for the animation. And there's a reset button. 
 
 This is setup as an eclipse project. 
